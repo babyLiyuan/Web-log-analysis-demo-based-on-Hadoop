@@ -1,8 +1,6 @@
 # Web-log-analysis-demo-based-on-Hadoop
 The demo can be divided into four parts: log collection, log clean-up and log analysis.
 
-[TOC]
-
 ## 简介
 
 Demo利用了Hadoop，Hive，Flume等工具，实现了简单的日志收集、日志清理、日志分析功能，以达到入侵检测的目的。
